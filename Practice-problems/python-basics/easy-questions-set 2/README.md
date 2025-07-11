@@ -9,21 +9,7 @@ Each file solves a specific beginner Python problem:
 
 File	Description
 
-q16.py	Store your name and age in variables and print them in a sentence.
-q17.py	Print a blank line using print().
-q18.py	Ask the user for a number, convert it to int, and double it.
-q19.py	Try entering invalid syntax (5 +) and observe the error.
-q20.py	Ask for a name and print the number of letters using len().
-q21.py	Subtract two numbers, store the result in a variable, and print it.
-q22.py	Ask the user for their hobby and print a compliment.
-q23.py	Combine input(), str(), and + to build and print a full sentence.
-q24.py	Ask for a decimal number, convert to float, and add 10.
-q25.py	Print the data type of "hello" using type().
-q26.py	Create first_name and last_name variables, and print a greeting.
-q27.py	Convert the string "42" to an integer and print its type.
-q28.py	Calculate and print the area of a rectangle (length * width).
-q29.py	Use the interactive shell to check the type of 3.14 and "True".
-q30.py	Ask for two numbers as strings and print their concatenation (no math).
+
 
 
 
@@ -45,9 +31,40 @@ python q16.py
 
 Replace q16.py with any file between q16.py and q30.py.
 
+q16.py   Store your name and age in variables and print them in a sentence.
+
+q17.py   Print a blank line using print().
+
+q18.py   Ask the user for a number, convert it to int, and double it.
+
+q19.py   Try entering invalid syntax (5 +) and observe the error.
+
+q20.py   Ask for a name and print the number of letters using len().
+
+q21.py   Subtract two numbers, store the result in a variable, and print it.
+
+q22.py   Ask the user for their hobby and print a compliment.
+
+q23.py   Combine input(), str(), and + to build and print a full sentence.
+
+q24.py   Ask for a decimal number, convert to float, and add 10.
+
+q25.py   Print the data type of "hello" using type().
+
+q26.py   Create first_name and last_name variables, and print a greeting.
+
+q27.py   Convert the string "42" to an integer and print its type.
+
+q28.py   Calculate and print the area of a rectangle (length * width).
+
+q29.py   Use the interactive shell to check the type of 3.14 and "True".
+
+q30.py   Ask for two numbers as strings and print their concatenation (no math).
+
 
 
 🧠 What You'll Practice
+
 
 Variable assignment and string formatting
 
