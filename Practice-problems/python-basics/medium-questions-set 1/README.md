@@ -52,21 +52,32 @@ Replace q5.py with whichever question file you want to try out.
 
 File	Task Summary
 
-q1.py	Ask for two numbers and print their product
-q2.py	Ask for a name and age, then greet them and show next year’s age
-q3.py	Create a variable with your city and print the number of letters
-q4.py	Ask for two numbers and print sum, difference, and average
-q5.py	Print a sentence combining float and int using str() conversion
-q6.py	Ask for a name and replicate it 5 times using *
-q7.py	Ask for two strings and print their total combined length
-q8.py	Ask for a string and print the first and last characters using indexing
-q9.py	Store a sentence in a variable and print it (without quotes in output)
-q10.py	Ask the user for a number and print its square
-q11.py	Build a simple currency converter using input(), int(), and math
-q12.py	Ask for a word and print it in reverse using string slicing
-q13.py	Ask for two numbers and print their quotient and remainder (//, %)
 
+q1.py    Ask for two numbers and print their product.
 
+q2.py    Ask for a name and age, then greet them and show next year’s age.
+
+q3.py    Create a variable with your city and print the number of letters.
+
+q4.py    Ask for two numbers and print sum, difference, and average.
+
+q5.py    Print a sentence combining float and int using str() conversion.
+
+q6.py    Ask for a name and replicate it 5 times using *.
+
+q7.py    Ask for two strings and print their total combined length.
+
+q8.py    Ask for a string and print the first and last characters using indexing.
+
+q9.py    Store a sentence in a variable and print it (without quotes in output).
+
+q10.py   Ask the user for a number and print its square.
+
+q11.py   Build a simple currency converter using input(), int(), and math.
+
+q12.py   Ask for a word and print it in reverse using string slicing.
+
+q13.py   Ask for two numbers and print their quotient and remainder (//, %).
 
 ---
 
@@ -116,5 +127,5 @@ Begin learning how to modularize your code using functions
 
 ✍ Author
 
-Built with ❤by Emmanuel-Udekwe as part of my Python learning journey.
+Built with ❤ by Emmanuel-Udekwe as part of my Python learning journey.
 Feel free to fork, try the challenges, and suggest improvements!
