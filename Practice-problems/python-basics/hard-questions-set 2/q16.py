@@ -1,0 +1,5 @@
+animal = str(input("enter an animal name:"))
+verb = str(input("enter a verb:"))
+number = str(input("enter a number(in words):"))
+adjective = str(input("enter an adjective:"))
+print("A " + number + "-" + adjective + " " + animal + " decided to " + verb + " across the field" )
