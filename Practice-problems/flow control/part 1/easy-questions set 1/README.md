@@ -17,14 +17,23 @@ No prior knowledge of if, else, loops, or functions is required — perfect for 
 File	Description
 
 q1.py	Print the Boolean value False
-q2.py	Ask for the user's name and check if it's "Alice"
+
+q2.py	Ask for the user's name and check if it's "Alice
+
 q3.py	Compare two numbers using > and print the result
+
 q4.py	Store and compare a number using ==
+
 q5.py	Ask user for a number and check if it's not equal to 100
+
 q6.py	Compare "apple" and "Apple" using !=
+
 q7.py	Print the result of True and True
+
 q8.py	Print the result of False or True
+
 q9.py	Use not on False and print the result
+
 q10.py	Ask for user age and check if it's >= 18
 
 
