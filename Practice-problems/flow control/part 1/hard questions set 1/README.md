@@ -10,9 +10,13 @@ Welcome to the Hard Questions Set 1 in your Python learning journey. These exerc
 File	Description
 
 q1.py	Ask the user to enter their name and age, then check if the name is "John" and age > 25.
+
 q2.py	Ask the user for three numbers and check if the first number is the largest.
+
 q3.py	Ask for a number and a string. Return True if number > 10 OR string equals "yes".
+
 q4.py	Evaluate and print the result of a compound Boolean expression.
+
 q5.py	Ask for two words, check if they're not the same AND both have more than 4 letters.
 
 
