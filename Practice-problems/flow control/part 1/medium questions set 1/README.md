@@ -15,14 +15,23 @@ These continue directly from the foundational skills in Automate the Boring Stuf
 File	Full Question
 
 q1.py	Ask the user to enter a number and print whether it is between 10 and 20 (inclusive).
+
 q2.py	Ask the user for two numbers and print whether both are equal.
-q3.py	Use the and operator to evaluate whether the number 7 is less than 10 and greater than 3.
+
+q3.py	Use the and operator to evaluate whether the number 7 is less than 10 and greater than 3
+
 q4.py	Ask the user to input a word and print whether its length is greater than 5.
+
 q5.py	Ask the user for two numbers and print whether at least one of them is greater than 100.
+
 q6.py	Ask the user to enter a number, then check whether the number is not less than 0.
+
 q7.py	Ask for two strings and check whether both have the same number of characters.
+
 q8.py	Ask for a username and password, and check whether both match "user1" and "pass1" exactly.
+
 q9.py	Check the result of this expression and print it: not (True and False)
+
 q10.py	Ask the user to enter a number and print True if the number is even or greater than 50.
 
 

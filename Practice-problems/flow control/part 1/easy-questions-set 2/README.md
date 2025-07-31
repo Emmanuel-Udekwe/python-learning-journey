@@ -27,14 +27,23 @@ These exercises reinforce:
 File	Full Question
 
 q11.py	Store your first name in a string variable and your age as an integer variable. Print a sentence combining them, like: "My name is [Name] and I am [Age] years old."
+
 q12.py	Ask the user to input two whole numbers. Store them in variables num1 and num2. Print whether num1 is greater than num2 (the output should be True or False).
+
 q13.py	Create a variable is_sunny and assign it the Boolean value True. Print a message that includes the value of is_sunny.
+
 q14.py	Ask the user for their favorite animal. Store it in a variable. Print the total number of characters in the animal's name.
+
 q15.py	Assign the integer 25 to a variable x and the float 25.0 to a variable y. Print whether x is equal to y.
+
 q16.py	Ask the user for two words. Print whether the first word is not equal to the second word.
+
 q17.py	Store the value False in a variable named is_raining. Print the result of applying the not operator to is_raining.
+
 q18.py	Ask for a user's height in centimeters (as a string). Convert it to an integer and print a statement like: "Your height is [height] cm."
+
 q19.py	Print the result of the comparison: (100 >= 99).
+
 q20.py	Ask for the price of an item (e.g., "5.99"). Convert it to a float and print its data type using type().
 
 
